@@ -1,0 +1,26 @@
+# Site settings
+name: Bibiana Souza
+email: souzabibiana@hotmail.com
+
+keywords: "Software Engineer, PHP, Java, SQL, Web, Project Manager, Agile, Student, C#, C, Developer"
+skills: "Software Developer in Vancouver, BC"
+baseurl:
+
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/bibiana-souza-14540a25/
+
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 2196F3
+  primary-rgb: "33, 150, 243"
+  secondary: 285172
+  secondary-dark: 29455b
+  section-tout: eaf1f1
+
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
